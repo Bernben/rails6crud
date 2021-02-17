@@ -1,0 +1,1 @@
+rm ${PWD}/tmp/pids/server.pid
